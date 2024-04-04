@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homeWork_1_3m</string>
+    <string name="send">Отправить</string>
+    <string name="password">Введите пароль</string>
+    <string name="result">Результат</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="result2">Результат</string>
+    <string name="result3">Result</string>
+</resources>
